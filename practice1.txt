@@ -2,3 +2,4 @@ Git‚Ì—ûK‚Å‚·
 ‚ ‚¢‚¤‚¦‚¨‚©‚«‚­‚¯‚±
 Egid add
 Egid commit
+Egit remove
