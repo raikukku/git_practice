@@ -1,5 +1,6 @@
 Gitの練習です
 あいうえおかきくけこ
-・gid add
-・gid commit
+・git add
+・git commit
 ・git remove
+・git status
