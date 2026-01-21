@@ -1,4 +1,4 @@
 Git‚Ì—ûK‚Å‚·
 ‚ ‚¢‚¤‚¦‚¨‚©‚«‚­‚¯‚±
-gid add
-gid commit
+Egid add
+Egid commit
